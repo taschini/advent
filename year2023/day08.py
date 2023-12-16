@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/8
+
 sample1 = """\
 RL
 

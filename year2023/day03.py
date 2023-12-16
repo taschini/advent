@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/3
+
 sample = """\
 467..114..
 ...*......
