@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/10
+
 sample1 = """\
 .....
 .S-7.

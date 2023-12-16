@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/7
+
 sample = """\
 32T3K 765
 T55J5 684

@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/9
+
 sample = """\
 0 3 6 9 12 15
 1 3 6 10 15 21
