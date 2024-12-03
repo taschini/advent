@@ -10,7 +10,7 @@ sample = """\
 """
 
 
-def valid(r: list[int], skip: int):
+def valid(r: list[int], skip: int) -> bool:
     delta = [r[i + 1] - r[i] for i in range(len(r) - 1)]
     y = all(1 <= d <= 3 for d in delta) or all(-3 <= d <= -1 for d in delta)
     if y or skip == 0:
